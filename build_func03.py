@@ -8,4 +8,7 @@ def main(n):
     Returns:
         float: the value of the expression
     """
-    return
+    x=3*pow(n+1,2)
+    return  x
+a=3.5
+print(main(a))
